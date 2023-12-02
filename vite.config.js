@@ -23,7 +23,7 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         //scss文件预处理
-        additionalData: `@import "@/assets/theme/theme.scss";`
+        additionalData: `@import "@/assets/css/theme.scss";`
       }
     }
   }

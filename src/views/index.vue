@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        hellosssssssssssssss
+
     </div>
 </template>
 
@@ -13,7 +13,6 @@ const data = reactive({
 </script>
 <style scoped lang='scss'>
 .container {
-    background-color: $dark-bg-color;
     width: 100%;
     height: 100vh;
 }
